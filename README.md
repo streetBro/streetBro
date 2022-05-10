@@ -2,7 +2,7 @@
 - 👀 I’m interested in github
 - 🌱 I’m currently learning git，js
 - 💞️ I’m looking to collaborate on GitHub
-- 📫 How to reach me dont
+- 📫 How to reach me dont do it
 
 <!---
 streetBro/streetBro is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
